@@ -1,0 +1,238 @@
+[
+    {
+        "image_url": "http:/www.dialadeliverykenya.co.ke/wp-content/uploads/2014/05/burger2.png",
+        "selections": [
+            {
+                "amount": "Ksh 350",
+                "title": "CHICKEN burger",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 250",
+                "title": "Cheese Beef Burger",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 350",
+                "title": "Spicy CHICKEN burger",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 350",
+                "title": "CHICKEN WRAP",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 600",
+                "title": "Double chicken cheese burger",
+                "title_extra": ""
+            }
+        ],
+        "title": "Burgers & Wraps",
+        "title_extra": "Available in chicken or beef"
+    },
+    {
+        "image_url": "http:/www.dialadeliverykenya.co.ke/wp-content/uploads/2014/05/2piecer1.png",
+        "selections": [
+            {
+                "amount": "Ksh 300",
+                "title": "2 Piecer & Chips",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 200",
+                "title": "1 Piecer & chips",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 450",
+                "title": "3 piecer, chips & coleslaw",
+                "title_extra": ""
+            }
+        ],
+        "title": "Best loved tastes",
+        "title_extra": "Now with extra chips"
+    },
+    {
+        "image_url": "http:/www.dialadeliverykenya.co.ke/wp-content/uploads/2014/05/combos3.png",
+        "selections": [
+            {
+                "amount": "Ksh 500",
+                "title": "3 piecer, chips & 500ml coke",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 300",
+                "title": "1 PIECER, CHIPS & 500ML COKE",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 550",
+                "title": "CHICKEN BURGER, CHIPS & 500ML COKE",
+                "title_extra": ""
+            }
+        ],
+        "title": "Combos",
+        "title_extra": "Try a combo!"
+    },
+    {
+        "image_url": "http:/www.dialadeliverykenya.co.ke/wp-content/uploads/2014/05/value_meals1.png",
+        "selections": [
+            {
+                "amount": "Ksh 900",
+                "title": "6 PIECER FAMILY MEAL",
+                "title_extra": "6 Piecer, 2 Coleslaw & 2 Regular Chips"
+            },
+            {
+                "amount": "Ksh 200",
+                "title": "Value Burger & chips",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 300",
+                "title": "4 SPICY WINGS & CHIPS",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 200",
+                "title": "4 SPICY WINGS",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 150",
+                "title": "Chicken Bites",
+                "title_extra": "Small"
+            },
+            {
+                "amount": "Ksh 350",
+                "title": "Chicken Bites",
+                "title_extra": "Large"
+            }
+        ],
+        "title": "Value meals",
+        "title_extra": ""
+    },
+    {
+        "image_url": "http:/www.dialadeliverykenya.co.ke/wp-content/uploads/2014/05/rotisserie_chicken1.png",
+        "selections": [
+            {
+                "amount": "Ksh 350",
+                "title": "1/4 CHICKEN & CHIPS",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 250",
+                "title": "1/4 CHICKEN ONLY",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 600",
+                "title": "1/2 CHICKEN & CHIPS",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 500",
+                "title": "1/2 CHICKEN ONLY",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 1100",
+                "title": "FULL CHICKEN & LARGE CHIPS",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 1000",
+                "title": "FULL CHICKEN only",
+                "title_extra": ""
+            }
+        ],
+        "title": "rotisserie\u00a0chicken",
+        "title_extra": ""
+    },
+    {
+        "image_url": "http:/www.dialadeliverykenya.co.ke/wp-content/uploads/2014/05/NewCoke.png",
+        "selections": [
+            {
+                "amount": "Ksh 100",
+                "title": "500ml Coke",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 100",
+                "title": "500ml Water",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 100",
+                "title": "Regular chips",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 150",
+                "title": "Medium chips",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 200",
+                "title": "Large chips",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 150",
+                "title": "Rice",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 50",
+                "title": "Coleslaw",
+                "title_extra": ""
+            }
+        ],
+        "title": "Sides",
+        "title_extra": ""
+    },
+    {
+        "image_url": "http:/www.dialadeliverykenya.co.ke/wp-content/uploads/2014/05/NewCoke.png",
+        "selections": [
+            {
+                "amount": "Ksh 200",
+                "title": "Chicken Breast",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 100",
+                "title": "Beef Patty",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 50",
+                "title": "Cheese Slice",
+                "title_extra": ""
+            }
+        ],
+        "title": "Extras",
+        "title_extra": ""
+    },
+    {
+        "image_url": "http:/www.dialadeliverykenya.co.ke/wp-content/uploads/2014/05/little_meals1.png",
+        "selections": [
+            {
+                "amount": "Ksh 250",
+                "title": "CHICKEN bites & chips",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 250",
+                "title": "Drumstick and chips",
+                "title_extra": ""
+            },
+            {
+                "amount": "Ksh 250",
+                "title": "BURGER & chips",
+                "title_extra": ""
+            }
+        ],
+        "title": "Little Chicky Meals",
+        "title_extra": ""
+    }
+]
